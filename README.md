@@ -1,5 +1,5 @@
-# course-dice-game
-Dice Game - Part of the "Complete JavaScript 2020" course.
+# course-dice
+Dice game - part of the "Complete JavaScript 2020" course.
 Refered to as "The Pig Game" in the course.
 
 INITIAL GAME RULES:
